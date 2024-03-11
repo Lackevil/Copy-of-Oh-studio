@@ -150,6 +150,11 @@
 		margin-top: 310px;
 		font-size: 14px;
 	}
+
+	.gallery__item__content:hover {
+		opacity: 1;
+		padding: initial;
+	}
 }
 
 @media (max-width: 481px) {
