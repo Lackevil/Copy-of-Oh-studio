@@ -1,0 +1,22 @@
+/* ---------- Modules ---------- */
+
+.main__title {
+	font-size: clamp(36px, 8vw, 72px);
+	font-weight: 500;
+	max-width: 745px;
+	text-align: center;
+}
+
+.second__title {
+	font-size: clamp(24px, 5vw, 38px);
+	font-weight: 500;
+}
+
+.category__item {
+	display: inline-block;
+	padding: 8px 12px;
+	background-color: #f3f2f1;
+	border-radius: 25px;
+}
+
+/* ---------- Modules ---------- */

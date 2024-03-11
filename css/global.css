@@ -1,0 +1,42 @@
+/* ---------- Imports ---------- */
+
+@import url('fonts.css');
+@import url('reset.css');
+@import url('variables.css');
+@import url('modules.css');
+
+/* ---------- Imports ---------- */
+
+/* ---------- Global ---------- */
+
+body {
+	font-family: 'Neue Montreal';
+	color: var(--black);
+	background-color: var(--white);
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.2;
+}
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+}
+
+[class*='__container'] {
+	max-width: 1480px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+/* ---------- Global ---------- */
+
+/* ---------- Main ---------- */
+
+.main {
+	flex: 1 1 auto;
+}
+
+/* ---------- Main ---------- */
