@@ -1,5 +1,7 @@
 # Copy-of-Oh-studio
 
+![Screenshot](screenshot.jpg)
+
 ## Introduction
 #### Name: Copy of [Oh.studio](https://oh.studio/)
 #### Short description: Design studio
